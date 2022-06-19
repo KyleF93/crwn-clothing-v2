@@ -1,4 +1,4 @@
-import CategoryItem from "./category-item.component";
+import CategoryItem from "../category-item/category-item.component";
 import "./category-menu.styles.scss";
 
 const CategoryMenu = ({ categories }) => {
